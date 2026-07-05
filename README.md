@@ -1,7 +1,7 @@
 <h2> Hi, I'm Kate! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI5aGZpaHgwbnhtbW41eXQ1ZGJ5ZWJyeWphN3puZHA4Mjc4NW5qeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MMquV2oInK40V86Q7g/giphy.gif">
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J3MTh1Z3ZwdW43ZTNvcWVxOXg3bGVhdmkzbXc2Z2JoMmd4MGZkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zl7u48zLVFgLpRwq6f/giphy.gif">
 <p><em>Software Enginner at <a href="https://midis.ru">MIDIS</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
-<p><em>Как со мной связаться: <a href="https://t.me/p0voreshka">Telegram</a> | Почта: povoreshka01@gmail.com</em></p>
+<p><em>How to contact me: <a href="https://t.me/p0voreshka">Telegram</a> | Mail: povoreshka01@gmail.com</em></p>
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/Povoreshka?label=follow&style=social)](https://github.com/Povoreshka)
 
@@ -18,9 +18,9 @@ const Kate = {
       frameworks: ["React", "Next.js"],
       styling: ["CSS", "Sass", "Bootstrap"],
     },
-backend: {
-      node: ["Node.js", "Express", "NestJS"],
-    },
+    backend: {
+        node: ["Node.js", "Express", "NestJS"],
+},
 
     devOps: {
       tools: ["Docker", "GitHub Actions", "Nginx"],
