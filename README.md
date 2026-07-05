@@ -1,7 +1,7 @@
 <h2> Hi, I'm Kate! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI5aGZpaHgwbnhtbW41eXQ1ZGJ5ZWJyeWphN3puZHA4Mjc4NW5qeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MMquV2oInK40V86Q7g/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI5aGZpaHgwbnhtbW41eXQ1ZGJ5ZWJyeWphN3puZHA4Mjc4NW5qeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MMquV2oInK40V86Q7g/giphy.gif" width="430">
 <p><em>Software Enginner at <a href="https://midis.ru">MIDIS</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
-<p>Как со мной связаться: [Telegram](https://t.me/p0voreshka) | Почта: povoreshka01@gmail.com</p>
+<p>Как со мной связаться: <a href="https://t.me/p0voreshka">Telegram</a> | Почта: povoreshka01@gmail.com</p>
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/Povoreshka?label=follow&style=social)](https://github.com/Povoreshka)
 
