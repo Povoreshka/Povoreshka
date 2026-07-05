@@ -1,5 +1,5 @@
 <h2> Hi, I'm Kate! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://ru.pinterest.com/pin/1096133996823232561/" width="230">
+<img align='right' src="https://i.pinimg.com/736x/a3/ca/9f/a3ca9f250871f3645b6d45cc6fa9f89f.jpg" width="230">
 <p><em>Software Enginner at <a href="https://midis.ru">MIDIS</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/Povoreshka?label=follow&style=social)](https://github.com/Povoreshka)
