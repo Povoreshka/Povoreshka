@@ -8,24 +8,35 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+```ts
 const Kate = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Redux, Node, Styled-Components, Docker],
+  pronouns: ["she", "her"],
+
+  languages: [
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Python",
+  ],
+
   technologies: {
     frontend: {
       frameworks: ["React", "Next.js"],
-      styling: ["CSS", "Sass", "Bootstrap"],
+      stateManagement: ["Redux"],
+      styling: ["CSS", "Sass", "Bootstrap", "Styled Components"],
     },
+
     backend: {
-        node: ["Node.js", "Express", "NestJS"],
-},
+      runtime: ["Node.js"],
+      frameworks: ["Express", "NestJS"],
+    },
 
     devOps: {
       tools: ["Docker", "GitHub Actions", "Nginx"],
     },
-}
+  },
+};
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
