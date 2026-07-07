@@ -12,30 +12,63 @@
 const Kate = {
   pronouns: ["she", "her"],
 
+  role: "Frontend / Fullstack developer",
+
   languages: [
     "JavaScript",
     "TypeScript",
+    "Python",
     "HTML",
     "CSS",
-    "Python",
+    "SQL",
   ],
 
   technologies: {
     frontend: {
       frameworks: ["React", "Next.js"],
-      stateManagement: ["Redux"],
-      styling: ["CSS", "Sass", "Bootstrap", "Styled Components"],
+      stateManagement: ["Redux", "Zustand", "Effector"],
+      styling: [
+        "CSS",
+        "Sass",
+        "Bootstrap",
+        "Styled Components",
+        "Tailwind CSS",
+      ],
     },
 
     backend: {
       runtime: ["Node.js"],
       frameworks: ["Express", "NestJS"],
+      api: ["REST API", "Swagger / OpenAPI"],
+      auth: ["JWT", "OAuth"],
+    },
+
+    databases: {
+      sql: ["PostgreSQL", "MySQL"],
+      noSql: ["MongoDB"],
+      orm: ["Prisma", "TypeORM", "Mongoose"],
     },
 
     devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
+      tools: ["Docker", "Docker Compose", "GitHub Actions", "Nginx"],
+      deployment: ["Linux", "CI/CD"],
+    },
+
+    tools: {
+      versionControl: ["Git", "GitHub"],
+      packageManagers: ["npm", "yarn"],
+      testing: ["Jest", "Postman"],
+      codeQuality: ["ESLint", "Prettier"],
     },
   },
+
+  interests: [
+    "Backend architecture",
+    "Fullstack development",
+    "API design",
+    "Databases",
+    "Automation",
+  ],
 };
 ```
 
